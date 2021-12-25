@@ -17,3 +17,5 @@ chmod 777 *
 python kur.py
 
 Tüm y/n sorularına y cevabı verin 
+
+Web sitemiz https://l24.im/MQkdi
